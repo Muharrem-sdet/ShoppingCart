@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Shopping Cart</string>
+    <string name="item_name_1">Cheese</string>
+    <string name="item_name_2">Bread</string>
+    <string name="item_name_3">Cucumber</string>
+    <string name="item_name_4">Tomato</string>
+    <string name="item_name_5">Potato</string>
+    <string name="item_name_6">Olive</string>
+    <string name="item_name_7">Luke</string>
+    <string name="item_name_8">Rice</string>
+    <string name="item_name_9">Flour</string>
+    <string name="item_name_10">Sugar</string>
+    <string name="item_name_11">Tea</string>
+    <string name="item_name_12">Banana</string>
+    <string name="item_name_13">Cherry</string>
+    <string name="item_name_14">Mango</string>
+    <string name="item_name_15">Chocolate</string>
+    <string name="item_name_16">Pizza</string>
+</resources>
